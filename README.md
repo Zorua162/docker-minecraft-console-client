@@ -6,6 +6,5 @@ public container repo so that it can be pulled easily from any build infrastruct
 Credit goes to the MCC team for building Minecraft-Console-Client
 
 # Licence
-TODO: Likely also use CDDL as with MCC
 A licence for the source code of Minecraft-Console-Client can be found both in
-its code and also in the /licences folder.
+its source code, which is a submodule of this repo, and also in the /licences folder.
