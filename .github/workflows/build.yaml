@@ -30,4 +30,4 @@ jobs:
         with:
           context: ./Minecraft-Console-Client/Docker
           push: true
-          tags: zorua162/minecraft-console-client:latest
+          tags: zorua162/docker-minecraft-console-client:latest
